@@ -1,68 +1,89 @@
-<h1 align="center">Hi 👋, I'm Youssef Asaad</h1>
-<h3 align="center">Mechatronics Engineer | Software Developer</h3>
+# 👋 Hi, I'm Youssef Asaad  
+### Software Engineer | Python Backend Developer | Full-Stack | ML & AI Enthusiast
 
-- 🔭 I’m currently working on **various software development projects** across embedded systems, web, and mobile technologies.
+I’m a Software Engineer specializing in **Python, Backend Engineering, Cloud Deployment, and Machine Learning**.  
+I enjoy building real products — from SaaS features and APIs to computer-vision systems, automation tools, and mobile apps.
 
-- 🌱 I’m currently expanding my knowledge in **Embedded Systems**, **Linux**, and **Cloud Technologies**.
+Currently, I’m working at **Trufla Technology (Canada-based SaaS company)** where I contribute to backend development, API logic, debugging production systems, and supporting cloud deployments (AWS, Docker, Linux).
 
-- 👨‍💻 My projects include **robotics, automation, web development, and game development**, and all of them can be found at [My GitHub](https://github.com/youssef456).
+I'm actively developing my expertise in **ML/AI**, focusing on data preprocessing, model experimentation, and computer vision.
 
-- ⚙️ I’m proficient in **Python, C++, C#, Java**, and more, with experience across **AWS**, **Docker**, and **GIT**.
+---
 
-- 📫 You can reach me at **yousefnagy2@gmail.com**
+## 🚀 Technologies & Tools I Work With
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/youssef-a-0b35b31ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-a-0b35b31ab" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yousef-nagy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yousef-nagy" height="30" width="40" /></a>
-<a href="https://fb.com/youssef.nagy.142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef.nagy.142" height="30" width="40" /></a>
-<a href="https://instagram.com/youssef._.nagui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youssef._.nagui" height="30" width="40" /></a>
-</p>
+### **Backend & Full-Stack**
+- Python, Django  
+- Node.js, Express  
+- JavaScript, React  
+- PHP  
+- REST APIs  
+- MySQL, MongoDB  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>
-<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
-</p>
+### **Machine Learning & AI**
+- Python ML Stack (NumPy, Pandas, Scikit-Learn)  
+- TensorFlow & Keras basics  
+- OpenCV & Image Processing  
+- Data Preprocessing & Feature Engineering  
 
-<h3 align="left">Project Highlights:</h3>
-<ul>
-  <li><strong>Smart Robotic Arm with Computer Vision</strong> – Python, C#, C++, Java</li>
-  <li><strong>3D Game Development</strong> – Unity, C#</li>
-  <li><strong>Educational Tutoring App</strong> – Java, Android Studio, SQL</li>
-  <li><strong>Automated Trading Bot</strong> – Python, AWS, Docker</li>
-  <li><strong>Smart Home Security</strong> – AVR Microcontroller, C</li>
-</ul>
+### **Cloud & DevOps**
+- Docker  
+- Linux  
+- AWS (EC2, S3)  
+- Git, GitHub / GitLab CI/CD  
+
+### **Other Experience**
+- Automation scripting  
+- Embedded systems (ARM Cortex-M, AVR)  
+- Flutter (Dart)  
+- Robotics and Computer Vision projects  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **Computer Vision Robotic Arm**  
+Object detection + automation using Python & OpenCV.  
+Real-time tracking and integration with embedded hardware.
+
+### 🔹 **Automated Trading Bot (Python + Docker + AWS)**  
+Data pipelines, decision logic, and live deployment on cloud.
+
+### 🔹 **Full-Stack E-Commerce App**  
+Flutter + Node.js + MongoDB + MySQL + TypeScript.
+
+### 🔹 **Computer Vision Security System**  
+Motion detection & automation using Python + microcontrollers.
+
+### 🔹 **Multi-Project Game Portfolio**  
+2D & 3D games developed in Unity C# (published on Play Store).
+
+👉 *More projects coming soon — especially ML/AI work!*
+
+---
+
+## 📚 Certifications & Learning
+- **AI Engineer Course – Complete AI Engineer Bootcamp (Udemy)**  
+- Machine Learning & Data Science Bootcamp  
+- Advanced Embedded Linux – University of Colorado  
+- Arm Cortex-M Architecture – Coursera  
+- Database Fundamentals – ITI  
+- JS, HTML, CSS – Duke University  
+
+---
+
+## 🎯 What I'm Focusing On
+- Improving ML/AI skills  
+- Building real-world ML projects  
+- Strengthening Python backend expertise  
+- Preparing for software roles in **Germany**  
+- Expanding cloud deployment experience (Docker + AWS)
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/youssefasaad  
+- **Email:** yousefnagy2@gmail.com  
+
+Thanks for visiting! 😊  
+Feel free to explore my projects or reach out!
