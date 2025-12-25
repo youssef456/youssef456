@@ -2,11 +2,11 @@
 ### Software Engineer | Python Backend Developer | Full-Stack | ML & AI Enthusiast
 
 I’m a Software Engineer specializing in **Python, Backend Engineering, Cloud Deployment, and Machine Learning**.  
-I enjoy building real products — from SaaS features and APIs to computer-vision systems, automation tools, and mobile apps.
+I enjoy building real products — from SaaS features and APIs to computer-vision systems, automation tools, and AI-powered applications.
 
-Currently, I’m working at **Trufla Technology (Canada-based SaaS company)** where I contribute to backend development, API logic, debugging production systems, and supporting cloud deployments (AWS, Docker, Linux).
+Currently, I work at **Trufla Technology (Canada-based SaaS company)**, where I contribute to backend development, API logic, debugging production systems, and supporting cloud deployments using **AWS, Docker, and Linux**.
 
-I'm actively developing my expertise in **ML/AI**, focusing on data preprocessing, model experimentation, and computer vision.
+Alongside my professional work, I’m actively developing my expertise in **ML & AI**, focusing on hands-on projects involving NLP, transformers, AI agents, and computer vision.
 
 ---
 
@@ -22,9 +22,11 @@ I'm actively developing my expertise in **ML/AI**, focusing on data preprocessin
 
 ### **Machine Learning & AI**
 - Python ML Stack (NumPy, Pandas, Scikit-Learn)  
-- TensorFlow & Keras basics  
+- NLP & Transformers (BERT, XLNet, GPT-style models)  
+- Hugging Face ecosystem  
+- LangChain & AI agents  
+- Vector embeddings & vector databases  
 - OpenCV & Image Processing  
-- Data Preprocessing & Feature Engineering  
 
 ### **Cloud & DevOps**
 - Docker  
@@ -42,23 +44,39 @@ I'm actively developing my expertise in **ML/AI**, focusing on data preprocessin
 
 ## 📌 Featured Projects
 
-### 🔹 **Computer Vision Robotic Arm**  
+### 🔹 **AI Engineering Projects**
+A collection of hands-on AI projects built while completing an AI Engineer bootcamp.  
+Includes NLP, transformers, LangChain, vector databases, speech recognition, and Streamlit-based AI agents.
+
+👉 **Repository:** https://github.com/youssef456/AI_Engineering
+
+---
+
+### 🔹 **Computer Vision Robotic Arm**
 Object detection + automation using Python & OpenCV.  
-Real-time tracking and integration with embedded hardware.
+Real-time tracking integrated with embedded hardware.
 
-### 🔹 **Automated Trading Bot (Python + Docker + AWS)**  
-Data pipelines, decision logic, and live deployment on cloud.
+---
 
-### 🔹 **Full-Stack E-Commerce App**  
+### 🔹 **Automated Trading Bot (Python + Docker + AWS)**
+End-to-end system with data pipelines, decision logic, and live cloud deployment.
+
+---
+
+### 🔹 **Full-Stack E-Commerce App**
 Flutter + Node.js + MongoDB + MySQL + TypeScript.
 
-### 🔹 **Computer Vision Security System**  
-Motion detection & automation using Python + microcontrollers.
+---
 
-### 🔹 **Multi-Project Game Portfolio**  
-2D & 3D games developed in Unity C# (published on Play Store).
+### 🔹 **Computer Vision Security System**
+Motion detection and automation using Python and microcontrollers.
 
-👉 *More projects coming soon — especially ML/AI work!*
+---
+
+### 🔹 **Game Development Portfolio**
+Multiple 2D & 3D games built with Unity (C#), published on the Play Store.
+
+👉 *More ML & AI-focused projects coming soon.*
 
 ---
 
@@ -68,15 +86,15 @@ Motion detection & automation using Python + microcontrollers.
 - Advanced Embedded Linux – University of Colorado  
 - Arm Cortex-M Architecture – Coursera  
 - Database Fundamentals – ITI  
-- JS, HTML, CSS – Duke University  
+- JavaScript, HTML, CSS – Duke University  
 
 ---
 
-## 🎯 What I'm Focusing On
-- Improving ML/AI skills  
-- Building real-world ML projects  
-- Strengthening Python backend expertise  
-- Preparing for software roles in **Germany**  
+## 🎯 What I'm Currently Focusing On
+- Building real-world ML & AI applications  
+- Deepening knowledge of LLMs, agents, and RAG systems  
+- Strengthening Python backend & system design skills  
+- Preparing for software engineering roles in **Germany**  
 - Expanding cloud deployment experience (Docker + AWS)
 
 ---
@@ -85,5 +103,5 @@ Motion detection & automation using Python + microcontrollers.
 - **LinkedIn:** https://www.linkedin.com/in/youssefasaad  
 - **Email:** yousefnagy2@gmail.com  
 
-Thanks for visiting! 😊  
-Feel free to explore my projects or reach out!
+Thanks for visiting!  
+Feel free to explore my repositories or reach out 🤝
