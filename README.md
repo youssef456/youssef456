@@ -40,13 +40,20 @@ Alongside my professional work, I’m actively developing my expertise in **ML &
 - Flutter (Dart)  
 - Robotics and Computer Vision projects  
 
----
-
 ## 📌 Featured Projects
 
 ### 🔹 **AI Engineering Projects**
-A collection of hands-on AI projects built while completing an AI Engineer bootcamp.  
-Includes NLP, transformers, LangChain, vector databases, speech recognition, and Streamlit-based AI agents.
+This repository contains a collection of hands-on AI projects I built while completing the **AI Engineer Bootcamp 2025** on Udemy.  
+
+The projects cover the full AI engineering workflow:
+- Python programming for AI  
+- Natural Language Processing (NLP)  
+- Large Language Models (BERT, GPT, XLNet)  
+- LangChain & AI agents  
+- Vector databases (Pinecone)  
+- Speech recognition and Streamlit applications  
+
+These projects demonstrate real-world AI applications, from chatbots to AI-driven search and reasoning systems.
 
 👉 **Repository:** https://github.com/youssef456/AI_Engineering
 
