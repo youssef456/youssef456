@@ -59,6 +59,23 @@ These projects demonstrate real-world AI applications, from chatbots to AI-drive
 
 ---
 
+### 🔹 **Data Science & AI Foundations**
+A comprehensive repository focused on **Data Science, Machine Learning, and AI Engineering fundamentals**, implemented using Python and modern AI tooling.
+
+This repository demonstrates my hands-on work across the full data-to-AI pipeline:
+- Data analysis and preprocessing  
+- Machine Learning fundamentals  
+- Natural Language Processing (NLP)  
+- Large Language Models & Transformers  
+- Vector embeddings and semantic search  
+- Speech recognition systems  
+
+The projects emphasize **practical implementation**, clean code, and real-world AI use cases, forming a strong foundation for building production-ready AI systems.
+
+👉 **Repository:** https://github.com/youssef456/Data_Science
+
+---
+
 ### 🔹 **Computer Vision Robotic Arm**
 Object detection + automation using Python & OpenCV.  
 Real-time tracking integrated with embedded hardware.
